@@ -19,7 +19,7 @@
 </div>
 
 <div class third>
-<h1><a href="">Week2</a></h1>
+<h1><a href="week2/index.html">Week2</a></h1>
 <p>Deep into CSS and change the style of the website with CSS</p>
 
 
