@@ -14,7 +14,7 @@
 </div>
 
 <div class second>
-<h1><a href="[week1/index.html](https://github.com/ay2027/F28WPlab1.github.io/blob/bb296e68e527ed4e27600e2632b89b5c2331221b/week1/index.html)">Week1</a></h1>
+<h1><a href="https://github.com/ay2027/F28WPlab1.github.io/blob/7b7ff84d8e6d569564a7b92640f9552bac5620b7/week1/index.html">Week1</a></h1>
 <p>Create a travel agency website using HTML and CSS</p>
 </div>
 
