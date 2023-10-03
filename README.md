@@ -14,7 +14,7 @@
 </div>
 
 <div class second>
-<h1><a href="">Week1</a></h1>
+<h1><a href="week1/index.html">Week1</a></h1>
 <p>Create a travel agency website using HTML and CSS</p>
 </div>
 
