@@ -13,12 +13,12 @@
     </div>
 
     <div class="second">
-      <h1><a href="https://ay2027.github.io/F28WPlab1.github.io/week1/index.html">Week 1</a></h1>
+      <h1><a href="https://F28WPlab1.github.io/week1/index.html">Week 1</a></h1>
       <p>Create a travel agency website using HTML and CSS</p>
     </div>
 
     <div class="third">
-      <h1><a href="https://github.com/ay2027/F28WPlab1.github.io/blob/ed4605f256818b4d951dcfd703a5f3f7ca6d7dd1/week2/index.html">Week 2</a></h1>
+      <h1><a href="https://F28WPlab1.github.io/week2/index.html">Week 2</a></h1>
       <p>Deep into CSS and change the style of the website with CSS</p>
     </div>
   
