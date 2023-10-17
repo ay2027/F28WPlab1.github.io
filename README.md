@@ -27,6 +27,7 @@
        <p> Adding a slideshow in the gallery webpage and creating a form in a separate file </p>
     </div>
   </div>
+    
 </body>
 
 </html>
